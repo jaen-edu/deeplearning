@@ -1,0 +1,10 @@
+s001.liqpod.cloud:30315
+ssh root@s001.liqpod.cloud -p 30315
+root/M3FJkxY^
+
+
+윈도우 + WSL + Ubuntu (개발환경)
+
+Ubuntu(운영체제버전)과  Python 버전 일치!!!
+
+AICE 국가 AI인증 자격증
