@@ -1,3 +1,10 @@
+https://liqpod.cloud/
+
+Koreatech12@wmcom.ai
+Koreatech12!
+
+
+
 s001.liqpod.cloud:30315
 ssh root@s001.liqpod.cloud -p 30315
 root/M3FJkxY^
